@@ -13,6 +13,7 @@
 		17625B571E3C17BB00CEBCA4 /* DoIT.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 17625B551E3C17BB00CEBCA4 /* DoIT.xcdatamodeld */; };
 		17625B591E3C17BB00CEBCA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17625B581E3C17BB00CEBCA4 /* Assets.xcassets */; };
 		17625B5C1E3C17BB00CEBCA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17625B5A1E3C17BB00CEBCA4 /* LaunchScreen.storyboard */; };
+		17625B641E3C1C9000CEBCA4 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17625B631E3C1C9000CEBCA4 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		17625B581E3C17BB00CEBCA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17625B5B1E3C17BB00CEBCA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17625B5D1E3C17BB00CEBCA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17625B631E3C1C9000CEBCA4 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				17625B4E1E3C17BA00CEBCA4 /* AppDelegate.swift */,
 				17625B501E3C17BB00CEBCA4 /* ViewController.swift */,
+				17625B631E3C1C9000CEBCA4 /* Task.swift */,
 				17625B521E3C17BB00CEBCA4 /* Main.storyboard */,
 				17625B581E3C17BB00CEBCA4 /* Assets.xcassets */,
 				17625B5A1E3C17BB00CEBCA4 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17625B641E3C1C9000CEBCA4 /* Task.swift in Sources */,
 				17625B511E3C17BB00CEBCA4 /* ViewController.swift in Sources */,
 				17625B571E3C17BB00CEBCA4 /* DoIT.xcdatamodeld in Sources */,
 				17625B4F1E3C17BA00CEBCA4 /* AppDelegate.swift in Sources */,
