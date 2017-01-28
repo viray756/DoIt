@@ -3,7 +3,7 @@
 //  DoIT
 //
 //  Created by Jose Viray on 1/27/17.
-//  Copyright © 2017 Jose Viray. All rights reserved.
+//  Copyright © 2017 Jose Viray. All rights reserved...
 //
 
 import UIKit
